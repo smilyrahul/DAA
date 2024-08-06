@@ -4,7 +4,7 @@ int main()
 {
 float a[100],sum=0,x;
 int n,i;
-clrscr();
+
 printf("\nEnter degree of the polynomial X :: ");
 scanf("%d",&n);
 printf("\nEnter coefficient's of the polynomial X :: \n");

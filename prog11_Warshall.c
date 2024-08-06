@@ -12,7 +12,6 @@ a[i][j] = a[i][j] || a[k][j];
 void main()
 {
 int n, i, j, a[10][10];
-clrscr();
 printf("Enter number of vertices:");
 scanf("%d",&n);
 printf("\nEnter adjacency matrix :\n");
